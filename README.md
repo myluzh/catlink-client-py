@@ -114,4 +114,6 @@ client.dispatch("api_token_litterbox_restart", deviceId="device_id", allow_write
 
 ## 来源与许可证
 
-本项目参考 [hasscc/catlink](https://github.com/hasscc/catlink) 的请求方式和设备协议映射，使用 [Apache License 2.0](LICENSE)。CATLINK 及相关产品名称归各自权利人所有。
+本项目参考 [hasscc/catlink](https://github.com/hasscc/catlink) 的请求方式和设备协议映射，使用 [Apache License 2.0](LICENSE)。
+
+CATLINK 及相关产品名称归各自权利人所有。
