@@ -1,0 +1,11 @@
+include README.md LICENSE pyproject.toml .env.example .gitignore main.py
+recursive-include catlink_client *.py
+recursive-include docs *.md
+exclude .env AGENTS.md
+prune catlink-research
+prune .venv
+prune dist
+prune build
+global-exclude __pycache__
+global-exclude *.py[cod]
+global-exclude .DS_Store
